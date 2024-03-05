@@ -3,7 +3,7 @@ import { Text, View } from 'react-native';
 
 export default function App() {
   return (
-    <View className="bg-stone-800 w-full h-full"> 
+    <View className="flex-[1] items-center justify-center"> 
       <Text>fresh start</Text>
       <StatusBar style="auto" />
     </View>
